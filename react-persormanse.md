@@ -1,4 +1,4 @@
-Categories of performance issues
+# Categories of performance issues
 
 ### Unnecessary renders.
     Memoization
@@ -29,9 +29,11 @@ Categories of performance issues
 
 
 - Chains of renders.
-- Layout traching.
+- Layout Tracing.
 - Hydration.
 
 https://chromedevtools.github.io/devtools-protocol/tot/Emulation/#method-setCPUThrottlingRate 
 https://pptr.dev/
 https://developer.mozilla.org/en-US/docs/Web/API/PerformanceObserver
+
+
